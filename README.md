@@ -1,1 +1,1 @@
-# DragonX-Version
+1.0
